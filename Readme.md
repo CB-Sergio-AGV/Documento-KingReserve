@@ -189,3 +189,108 @@ Este segmento se enfoca en cadenas hoteleras, hoteles boutique y resorts que bus
 #### Huéspedes:
 
 Este segmento está compuesto por viajeros que buscan una experiencia de alojamiento personalizada y de alta calidad. Los huéspedes valoran una experiencia que se ajuste a sus preferencias individuales, desde la facilidad de reserva hasta la atención personalizada durante su estancia. Están interesados en un proceso de reserva intuitivo que simplifique la planificación de su viaje y en recibir un servicio al cliente eficiente que pueda resolver cualquier inconveniente de manera rápida. Además, aprecian servicios y comodidades que mejoren su confort y hagan su estancia más placentera. La capacidad de personalizar su experiencia y acceder a un servicio excepcional son factores clave para su satisfacción y fidelización.
+
+# Capítulo II: Requirements Elicitation & Analysis
+## Competidores
+KingReserve se diferencia de competidores como Opera PMS, RoomRaccoon y Mews al combinar la gestión hotelera con una comunidad colaborativa para profesionales del sector. Mientras que Opera PMS es ideal para grandes cadenas pero costoso para pequeños hoteles, RoomRaccoon se centra en hoteles más pequeños con una solución integral, y Mews destaca por su automatización y diseño moderno, KingReserve ofrece una solución versátil que no solo optimiza la operación, sino que también fomenta la interacción y el intercambio de conocimientos entre usuarios, elevando la calidad del servicio y la experiencia del cliente.
+## Análisis Competitivo
+<table>
+   <tr>
+      <td align="center" colspan="6"><b>Competitive Analysis Landscape</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>¿Por qué llevar a cabo este análisis?</b></td>
+      <td colspan="4">¿Cómo podemos proporcionar una gestión hotelera eficiente que además de optimizar las operaciones, fomente una experiencia personalizada y excelente para los huéspedes?</td>
+   </tr>
+   <tr align="center">
+      <td colspan="2"></td>
+      <td><b>KingReserve</b><br><img src="https://hackmd.io/_uploads/S15TtAi90.jpg" alt="KingReserve Logo" style="max-width: 80px;"/></td>
+      <td><b>Opera PMS</b><br><img src="https://hackmd.io/_uploads/SkbrwAo5A.jpg" alt="Opera PMS" style="max-width: 80px;"/></td>
+      <td><b>RoomRaccoon</b><br><img src="https://hackmd.io/_uploads/S191dAo5C.png" alt="RoomRaccoon" style="max-width: 80px;"/></td>
+      <td><b>Mews</b><br><img src="https://hackmd.io/_uploads/SJ4_u0i9R.png" alt="Mews" style="max-width: 90px;"/></td>
+   </tr>
+
+   <tr>
+      <td rowspan="2"><b>Perfil</b></td>
+      <td><b>Overview</b></td>
+      <td>KingReserve es una plataforma innovadora que ofrece una solución integral para la gestión hotelera, combinando funciones operativas con un enfoque en la experiencia del cliente. Además de optimizar la administración, se enfoca en crear un entorno que fomente la interacción social y la personalización.</td>
+      <td>Opera PMS es una solución robusta y ampliamente utilizada por grandes cadenas hoteleras, especializada en la gestión de propiedades complejas y operaciones a gran escala.</td>
+      <td>RoomRaccoon es una solución todo-en-uno diseñada para pequeños y medianos hoteles, que combina gestión de reservas, un motor de reservas en línea y herramientas de facturación.</td>
+      <td>Mews ofrece una plataforma moderna y flexible que automatiza gran parte de las operaciones hoteleras, enfocándose en mejorar la eficiencia y la experiencia del huésped.</td>
+   </tr>
+   <tr>
+      <td><b>Ventaja competitiva. ¿Qué valor ofrece a los clientes?</b></td>
+      <td>KingReserve se diferencia al integrar la gestión hotelera con funciones sociales para crear una comunidad interactiva entre los hoteles y sus huéspedes, mejorando la experiencia del cliente a través de la personalización y comunicación directa.</td>
+      <td>Opera PMS se destaca por su capacidad para manejar operaciones complejas en cadenas hoteleras grandes, ofreciendo una solución integral pero con un costo elevado y mayor complejidad.</td>
+      <td>RoomRaccoon ofrece una interfaz intuitiva para pequeños hoteles, con un enfoque en la facilidad de uso y precios accesibles.</td>
+      <td>Mews se centra en la automatización y la experiencia del usuario, con un diseño moderno y adaptable, aunque su integración personalizada puede ser limitada.</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><b>Perfil de Marketing</b></td>
+      <td><b>Mercado Objetivo</b></td>
+      <td>El mercado objetivo de KingReserve incluye hoteles de tamaño mediano y grande que buscan optimizar sus operaciones y mejorar la experiencia del huésped mediante la tecnología. También apunta a cadenas hoteleras que desean mejorar la personalización y el servicio al cliente.</td>
+      <td>Grandes cadenas hoteleras que requieren un sistema robusto y personalizado para gestionar múltiples propiedades con alta eficiencia.</td>
+      <td>Pequeños y medianos hoteles que buscan una solución todo-en-uno con funcionalidades simples y una curva de aprendizaje baja.</td>
+      <td>Hoteles que valoran la automatización y buscan mejorar la experiencia del huésped a través de una plataforma moderna y flexible.</td>
+   </tr>
+   <tr>
+      <td><b>Estrategias de Marketing</b></td>
+      <td>KingReserve se centrará en campañas digitales dirigidas a hoteles medianos y grandes, promoviendo su capacidad para mejorar la personalización y la experiencia del huésped. Además, se buscarán alianzas estratégicas con grupos hoteleros y eventos del sector.</td>
+      <td>Opera PMS se apoya en su reputación y su fuerte presencia en grandes cadenas hoteleras, además de ofrecer soluciones personalizadas según las necesidades específicas del cliente.</td>
+      <td>RoomRaccoon se promociona principalmente a través de campañas en línea, con un enfoque en la facilidad de uso y los precios accesibles para pequeños hoteles.</td>
+      <td>Mews invierte en marketing digital y en la creación de una marca que se asocia con la modernidad y la innovación en la gestión hotelera.</td>
+   </tr>
+   <tr>
+      <td rowspan="3"><b>Perfil de Producto</b></td>
+      <td><b>Productos & Servicios</b></td>
+      <td>Solución integral de gestión hotelera, combinando administración de reservas, comunicación directa con huéspedes, y herramientas para personalizar la experiencia del cliente.</td>
+      <td>Gestión de propiedades, reservas, facturación y servicios avanzados para cadenas hoteleras grandes.</td>
+      <td>Gestión de reservas, motor de reservas en línea, herramientas de facturación y PMS, diseñado para pequeños hoteles.</td>
+      <td>Automatización de operaciones, gestión de reservas y experiencias del huésped, todo dentro de una interfaz moderna.</td>
+   </tr>
+   <tr>
+      <td><b>Precios & Costos</b></td>
+      <td>Ofreceremos un modelo de suscripción con opciones escalables según el tamaño del hotel y las funciones necesarias, además de herramientas adicionales para personalización y servicios exclusivos.</td>
+      <td>Costos elevados para implementar y mantener, especialmente en cadenas hoteleras grandes.</td>
+      <td>Precios accesibles con paquetes todo-en-uno adaptados a pequeños hoteles.</td>
+      <td>Suscripción basada en el tamaño del hotel y las funcionalidades necesarias, con opciones adicionales para automatización avanzada.</td>
+   </tr>
+   <tr>
+      <td><b>Canales de Distribución (Web y/o Móvil)</b></td>
+      <td>Web y app móvil con sincronización en tiempo real entre dispositivos para una gestión fluida en múltiples plataformas.</td>
+      <td>Web, aplicaciones específicas para propiedades grandes.</td>
+      <td>Web y aplicaciones móviles, con una interfaz sencilla y accesible desde cualquier dispositivo.</td>
+      <td>Web y móvil, con un diseño adaptable para distintos tipos de dispositivos.</td>
+   </tr>
+
+   <tr>
+      <td rowspan="5"><b>Análisis SWOT</b></td>
+      <td><b>Fortalezas</b></td>
+      <td>Enfoque en la experiencia personalizada del huésped, comunidad interactiva, e integración fluida entre funciones operativas y sociales.</td>
+      <td>Solución robusta para propiedades complejas y de gran tamaño.</td>
+      <td>Interfaz fácil de usar y precios accesibles para pequeños hoteles.</td>
+      <td>Automatización avanzada y diseño moderno.</td>
+   </tr>
+   <tr>
+      <td><b>Debilidades</b></td>
+      <td>Dependencia inicial de alianzas estratégicas para atraer grandes cadenas hoteleras.</td>
+      <td>Alto costo de implementación y mantenimiento.</td>
+      <td>Limitado a hoteles pequeños y medianos.</td>
+      <td>Limitaciones en integraciones personalizadas.</td>
+   </tr>
+   <tr>
+      <td><b>Oportunidades</b></td>
+      <td>Expansión en mercados internacionales, adopción de tecnologías emergentes, y crecimiento en la digitalización hotelera.</td>
+      <td>Expansión en mercados donde las cadenas hoteleras buscan soluciones más integradas.</td>
+      <td>Mayor demanda de soluciones accesibles y eficientes para hoteles pequeños y medianos.</td>
+      <td>Creciente interés en automatización hotelera y tecnología moderna.</td>
+   </tr>
+   <tr>
+      <td><b>Amenazas</b></td>
+      <td>Competencia fuerte en el mercado de gestión hotelera, cambios en las tendencias tecnológicas.</td>
+      <td>Competencia con otras plataformas altamente especializadas.</td>
+      <td>Aumento en la competencia de otras soluciones todo-en-uno.</td>
+      <td>Nuevas plataformas que ofrezcan soluciones más flexibles o especializadas.</td>
+   </tr>
+</table>
+
